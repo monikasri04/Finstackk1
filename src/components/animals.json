@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Lizard",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.7he7ahUZmMChrHmUeWx6owHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Lizards are reptiles, fun fact!"
+  },
+  {
+    "id": 2,
+    "title": "Cat",
+    "image": "https://th.bing.com/th/id/R.a3d728720c6db2fd216d36443beff15c?rik=%2bdVyABrXisPO%2fQ&riu=http%3a%2f%2fclubcatt.com%2fcdn%2fshop%2farticles%2fdomestic-house-cat.png%3fv%3d1689444796&ehk=%2fqoqNUXHlqMzhWSqpHELLDoVa7CKLBqTAt%2bW16S0pxw%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Cats are the most elegant animals, I said so."
+  },
+  {
+    "id": 3,
+    "title": "Dog",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.IEDDmaYMwXGzHPNj5vGAgQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Dogs are the best companions."
+  }
+]
